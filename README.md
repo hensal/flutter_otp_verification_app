@@ -9,16 +9,19 @@ Step-1: Install Required Node.js Packages:
           npm init -y
 
    #Install required packages:
+   
         npm install express twilio body-parser
         npm install -g nodemon
         npm install cors
 
 To run server:Run the command
+
    nodemon server.js
 
    NOTE:The server folder is created inside the flutter project for Node JS.
 
  Step-2: Create the flutter project:
+ 
          flutter --version
          Flutter 3.26.0-0.1.pre • channel beta • https://github.com/flutter/flutter.git
          Framework • revision ee624bc4fd (5 months ago) • 2024-09-10 17:41:06 -0500
