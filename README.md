@@ -16,7 +16,7 @@ Step-1: Install Required Node.js Packages:
 
 To run server:Run the command
 
-   nodemon server.js
+        nodemon server.js
 
    NOTE:The server folder is created inside the flutter project for Node JS.
 
