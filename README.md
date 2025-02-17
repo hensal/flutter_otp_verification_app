@@ -36,7 +36,7 @@ Step-3: Install the packages:
 Step-4: Create the .env file inside the server folder of Node JS
 
       TWILIO_ACCOUNT_SID = "ACd391778b6b2cc1"
-       TWILIO_AUTH_TOKEN = "a87d519ad309c65aa7c2f"
+       TWILIO_AUTH_TOKEN = "a87309c65aa7c2f"
 
 UI :
 
