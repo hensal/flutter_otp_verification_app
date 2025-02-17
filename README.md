@@ -28,6 +28,10 @@ To run server:Run the command
          Engine • revision 059e4e6d8f
          Tools • Dart 3.6.0 (build 3.6.0-216.1.beta) • DevTools 2.39.0
 
+Step-3: Install the packages:
+
+       intl_phone_field: ^3.2.0
+       http: ^0.13.4
 
 UI :
 
