@@ -5,9 +5,9 @@ Step-1: Install Required Node.js Packages:
 
   #Create a Node.js project folder
         
-          mkdir my-node-backend
-          cd my-node-backend
-          npm init -y
+        mkdir my-node-backend
+        cd my-node-backend
+        npm init -y
 
    #Install required packages:
    
@@ -31,13 +31,13 @@ To run server:Run the command
 
 Step-3: Install the packages:
 
-       intl_phone_field: ^3.2.0
-       http: ^0.13.4
+        intl_phone_field: ^3.2.0
+        http: ^0.13.4
 
 Step-4: Create the .env file inside the server folder of Node JS
 
-      TWILIO_ACCOUNT_SID = "ACd391778b6b2cc1"
-       TWILIO_AUTH_TOKEN = "a87309c65aa7c2f"
+       TWILIO_ACCOUNT_SID = "ACd7778888b6b2cc1"
+       TWILIO_AUTH_TOKEN = "a87309888888887c2f"
 
 UI :
 
