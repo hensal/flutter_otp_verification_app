@@ -3,7 +3,7 @@ This is the flutter application that send the otp code during log in.
 
 Step-1: Install Required Node.js Packages:
 
-        #Create a Node.js project folder
+  #Create a Node.js project folder
         
           mkdir my-node-backend
           cd my-node-backend
